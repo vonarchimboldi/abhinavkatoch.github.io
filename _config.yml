@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : Abhinav's Portfolio
+title                    : Abhinav Katoch
 title_separator          : "-"
-name                     : Abhinac Katoch
-description              : My Data Science Portfolio
+name                     : Abhinav Katoch
+description              : My Data Science Portfolio.
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,29 +103,23 @@ analytics:
 author:
   name             : Abhinav Katoch
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : My Data Science Portfolio
-  location         : Chicago, IL.
+  bio              : Data Science Portfolio.
+  location         : Chicago
   email            : katoch@uchicago.edu
   links:
-    - label: "Email"
+    - label: Email
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
+      url: katoch@uchicago.edu
+    - label: LinkedIn
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
+      url: https://www.linkedin.com/in/abhinav-katoch-78672344/
+    - label: Twitter
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: https://twitter.com/_vonarchimboldi
+    - label: GitHub
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: https://github.com/vonarchimboldi
+    
 # Site Footer
 footer:
   links:
@@ -153,6 +147,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,9 +281,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
   # _pages
   - scope:
-      path: ""
+      path: “”
       type: pages
     values:
       layout: single
@@ -297,3 +293,4 @@ defaults:
       comments: # true
       share: true
       related: true
+
