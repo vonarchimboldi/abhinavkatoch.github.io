@@ -6,6 +6,8 @@ title: "Distilling Knowledge With Wide Residual Networks"
 tags: [Convolutional Neural Networks, Transfer Learning, Machine Learning, data science]
 author_profile: true
 mathjax: true
+extract : The paper, "Distilling the Knowledge in a Neural Network" (Hinton et al. 2015) develops a methodology to transfer knowledge between classification learning models. Although knowledge transfer between models can be desirable in different practical scenarios, the paper highlights as one of the objectives achieving simpler models that obtain similar performance as cumbersome models or ensamble of specialist models without their computational overhead. 
+
 ---
 # Hinton et al, 'Distilling the Knowledge in a Neural Network' (2015)
 
