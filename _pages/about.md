@@ -6,4 +6,6 @@ author: "Abhinav Katoch"
 
 ---
 
-Masters in Analytics candidate at The University of Chicago with coursework and projects in Machine Learning and Applied Statistics. 
+Currently: Data Scientist at QuantumBlack. 
+
+Previously: MS in Analytics from University of Chicago.
